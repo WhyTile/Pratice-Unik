@@ -1,0 +1,3 @@
+D:/ynik/2 semenistr/prigrimiravanya/Pratice 6/cmake-build-debug/CMakeFiles/Pratice_6.dir
+D:/ynik/2 semenistr/prigrimiravanya/Pratice 6/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/ynik/2 semenistr/prigrimiravanya/Pratice 6/cmake-build-debug/CMakeFiles/rebuild_cache.dir
